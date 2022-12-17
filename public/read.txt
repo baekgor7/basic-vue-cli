@@ -1,0 +1,9 @@
+cmd -> 관리자 권한으로 실행 할 것
+
+node 설치 후 확인 : node -v
+
+vue 설치(vue) : npm install -g @vue/cli
+
+vue 삭제 : npm uninstall -g @vue/cli
+
+vue 설치(vue2) 후 확인 : vue -V
